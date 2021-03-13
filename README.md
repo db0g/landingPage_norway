@@ -1,6 +1,6 @@
 # LandingPage_norway
 
-# ![norway](C:\Users\Damie\Desktop\_Projects\LandingPage\landingPage_norway\img\norway.jpeg)
+# ![norway](https://github.com/db0g/landingPage_norway/blob/main/img/norway.jpeg)
 
 ### LandingPage copié du site [Nicepage](https://nicepage.com/website-templates).
 
