@@ -14,7 +14,7 @@
 - [x] Mettre du contenu dans mon Portfolio
 - [x] Prendre du plaisir à coder **=)** c'est important non ?
 - [x] Partager mon code
-- [x] Partager une envi de voyage en Norvège
+- [x] Partager une envie de voyager en Norvège
 
 
 
