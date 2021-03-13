@@ -15,7 +15,7 @@ h1, h3, p{
 }
 /*main*/
 .main_background{
-    background-image:url("../img/norway.jpeg");
+    background-image:url("img/norway.jpeg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
